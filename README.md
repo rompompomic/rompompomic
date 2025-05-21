@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Danil 👋</h1>
+<h3 align="center">developer & system thinker</h3>
 
-<!--
-**devofpain/devofpain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=1E90FF&center=true&vCenter=true&width=460&lines=Software+Engineer+%7C+Python+%7C+C%2B%2B+%7C+C%23;Passionate+about+clean+architecture;Building+with+clarity+%26+purpose" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+
+```txt
+Name: Danil
+Tech Stack: Python · C++ · C#
+Style: Clean code, strong typing, efficient systems
+Location: Chelyabinsk
