@@ -60,7 +60,7 @@
 
 ###
 
-<p align="left">𝑺𝒕𝒂𝒕𝒔</p>
+<h2 align="left">𝑺𝒕𝒂𝒕𝒔</h2>
 
 ###
 
