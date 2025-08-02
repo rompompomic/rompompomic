@@ -52,8 +52,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img height="200" src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/c5c4551718e7b8c648322ba5330f0a1ac2bb178a2085d8904d8d496deaeec664.gif"  />
 </div>
