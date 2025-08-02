@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Danil 👋</h1>
 <h3 align="center">developer & system thinker</h3>
 
-<h3 align="center">Stack</h3>
+<h2 align="center">Stack</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -38,13 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
-<h3 align="center">Social n</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rompompomic/rompompomic/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rompompomic/rompompomic/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rompompomic/rompompomic/output/pacman-contribution-graph.svg">
-</picture>
+<h2 align="center">Social n</h2>
 
 ###
 
