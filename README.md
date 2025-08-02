@@ -1,7 +1,19 @@
-<h1 align="center">Hi, I'm Danil 👋</h1>
-<h3 align="center">developer & system thinker</h3>
+<h3 align="left">𝑯𝒆𝒍𝒍𝒐, 𝑰'𝒎 𝑫𝒂𝒏𝒊𝒍</h3>
 
-<h2 align="left">Stack</h2>
+###
+
+<div align="left">
+  <a href="t.me/zarzourm" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">𝑻𝒆𝒄𝒌 𝑺𝒕𝒂𝒄𝒌</h2>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -38,15 +50,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
-<h2 align="left">Social</h2>
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/c5c4551718e7b8c648322ba5330f0a1ac2bb178a2085d8904d8d496deaeec664.gif"  />
+</div>
 
 ###
 
-<div align="left">
-  <a href="t.me/zarzourm" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-</div>
+<p align="left">𝑺𝒕𝒂𝒕𝒔</p>
 
 ###
 
